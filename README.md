@@ -1,2 +1,2 @@
 # Geonorge.Common
-Common functions for Geonorge projects.
+Common functions for Geonorge project.
